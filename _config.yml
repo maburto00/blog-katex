@@ -33,6 +33,7 @@ github_username:  jekyll
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-katex
 markdown: kramdown
 kramdown:
   math_engine: mathjax
